@@ -5,8 +5,8 @@ Gera frases de efeito sem significado real."""
 
 import random
 
-parte1 = []
-parte2 = []
-parte3 = []
+parte1 = ["oi"]
+parte2 = ["olá"]
+parte3 = ["hello"]
 
 print (random.choice(parte1), random.choice(parte2), random.choice(parte3))
